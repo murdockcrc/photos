@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# Welcome
 
-You can use the [editor on GitHub](https://github.com/murdockcrc/photos/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This repository is a historical archive of my personal photos.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Usage
 
-### Markdown
+All material published in this repository is subject the license conditions described [HERE](/LICENSE). In the license, the term "Software" must be broadly understood as including the creative works published in this repository (Intellectual Property). The most important part for me to select the MIT license  to publish this work is the attribution part.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Why GitHub
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/murdockcrc/photos/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+There are many websites dedicated to publishing photography work, much more functional for that purpose than GitHub. However, I want to host my work on a place that will out live myself. The problem with all those photo websites is, once you depart from this life (and thus stop payments to the provider), your site and your work will go offline with you. With this repository, I am assuming that GitHub and its content will stay around for decades to come.
