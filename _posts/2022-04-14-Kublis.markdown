@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Street: Küblis"
+date:   2022-04-14 00:00:00 +0200
+categories: street
+---
+
+### 2022-04-14
+
+Küblis is a small town in the canton of Graubünden, Switzerland. It lies at the side of the Landquart river, in the lower Prättigau valley. This is the last town before the big ascent starts towards Klosters. The town is flanked by steep mountains at both sides of the river.
+
+During the first days of spring, people tend to their gardens and tidy them up after months of heavy snow. In the background, the local church.
+
+| ![](/photos/assets/kublis/DSC03597.jpg) |
+|:--:|
+| <b>Typical architecture in this part of Graubünden</b>|
+
+
+The church is the main landmark of the town. Here, I try to shoot into the sunset, and used a low f-stop number to make the sun rays look pointy and sharp.
+
+| ![](/photos/assets/kublis/DSC03623.jpg) |
+|:--:|
+| <b>Entrance to the church</b>|
+
+Some of the older buildings are entirely made out of stone. This is also typical in this region of Switzerland.
+
+| ![](/photos/assets/kublis/DSC03612.jpg) |
+|:--:|
+| <b>Tidy gardens and rustical architecture</b>|
+
+A little local friend, curious about the camera.
+
+| ![](/photos/assets/kublis/DSC03603.jpg) |
+|:--:|
+| <b></b>|
+
+## Location
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2725.412579070811!2d9.7675147013761!3d46.91426991264894!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4784ae2cce758801%3A0xa5cea27d86b37600!2sK%C3%BCblis%2C%20Bahnhof!5e0!3m2!1sen!2sch!4v1650021018631!5m2!1sen!2sch" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
