@@ -33,6 +33,4 @@ The Rätikon mountain range lies to the north of the Prättigau valley in canton
 |:--:|
 | <b>St. Antönien</b>|
 
-## Location
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2722.591378795427!2d9.81238795190245!3d46.969717979045406!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4784adb9e3df6f4f%3A0x5450198ed9f67b66!2sG%C3%A4steinformation%20St.%20Ant%C3%B6nien!5e0!3m2!1sen!2sch!4v1650021747250!5m2!1sen!2sch" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+## [Google Maps](https://goo.gl/maps/2xQ8rKvbdvqFG4oy5)

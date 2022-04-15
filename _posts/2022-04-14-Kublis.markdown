@@ -34,6 +34,4 @@ A little local friend, curious about the camera.
 |:--:|
 | <b></b>|
 
-## Location
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2725.412579070811!2d9.7675147013761!3d46.91426991264894!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4784ae2cce758801%3A0xa5cea27d86b37600!2sK%C3%BCblis%2C%20Bahnhof!5e0!3m2!1sen!2sch!4v1650021018631!5m2!1sen!2sch" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+## [Google Maps](https://goo.gl/maps/92dG7SF1r6U6RSaR7)
