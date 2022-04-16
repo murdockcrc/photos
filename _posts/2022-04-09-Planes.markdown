@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Aircraft: Zurich plane spotting"
+title:  "Aviones en Zúrich"
 date:   2022-04-10 14:49:37 +0200
 categories: aircraft
 ---
 
-Plane spotting at the Zurich (ZRH/LSZH) airport, Switzerland. These picture were taken from the observation deck.
+Observación de aviones en el aeropuerto de Zúrich (ZRH), Suiza. Estas fotos fueron tomadas desde la terraza de observación.
 
-The day offered some interesting compositions, as there were some thunderstorm clouds in the vicinity. However, on some spots, the sun was shining without any cloud cover, thus providing some highligh/shadow contrasts in the distance.
+El día ofreció composiciones interesantes, puesto que había nubes de tormenta en las cercanías, mientras que algunas partes del cielo estaban totalmente despejadas. Esto causó que ciertas zonas estuvieran bajo la sombra, mientras que otras estaban directamente expuestas al sol.
 
 | ![](/photos/assets/2022-04-09/DSC03383.jpg) |
 |:--:|
@@ -15,7 +15,7 @@ The day offered some interesting compositions, as there were some thunderstorm c
 
 | ![](/photos/assets/2022-04-09/DSC03392.jpg) |
 |:--:|
-| <b>Background: Qatar Airways Boeing 777-300ER (QR95) <br>Swiss LX38 (Zurich - San Francisco). Boeing 777-300ER (HB-JNC)</b>|
+| <b>En el fondo: Qatar Airways Boeing 777-300ER (QR95) <br>Swiss LX38 (Zurich - San Francisco). Boeing 777-300ER (HB-JNC)</b>|
 
 | ![](/photos/assets/2022-04-09/DSC03394.jpg) |
 |:--:|
@@ -27,7 +27,7 @@ The day offered some interesting compositions, as there were some thunderstorm c
 
 | ![](/photos/assets/2022-04-09/DSC03415.jpg) |
 |:--:|
-| <b>People waiting for the plane to take off at the Zurich Airport observation deck <br>Swiss LX38 (Zurich - San Francisco). Boeing 777-300ER (HB-JNC)</b>|
+| <b>Gente esperando el despegue de un avión en la terraza de observación del aeropuerto. <br>Swiss LX38 (Zurich - San Francisco). Boeing 777-300ER (HB-JNC)</b>|
 
 | ![](/photos/assets/2022-04-09/DSC03423.jpg) |
 |:--:|
@@ -35,11 +35,11 @@ The day offered some interesting compositions, as there were some thunderstorm c
 
 | ![](/photos/assets/2022-04-09/DSC03440.jpg) |
 |:--:|
-| <b>Rotating <br>Swiss LX38 (Zurich - San Francisco). Boeing 777-300ER (HB-JNC)</b>|
+| <b>Despegando<br>Swiss LX38 (Zurich - San Francisco). Boeing 777-300ER (HB-JNC)</b>|
 
 | ![](/photos/assets/2022-04-09/DSC03445.jpg) |
 |:--:|
-| <b>Taking off into stormy weather <br>Thai Airways TG971 (Zurich - Bangkok). Boeing 777-300ER.</b>|
+| <b>Despegue hacia las nubes de tormenta<br>Thai Airways TG971 (Zurich - Bangkok). Boeing 777-300ER.</b>|
 
 | ![](/photos/assets/2022-04-09/DSC03450.jpg) |
 |:--:|
@@ -67,7 +67,7 @@ The day offered some interesting compositions, as there were some thunderstorm c
 
 | ![](/photos/assets/2022-04-09/DSC03564.jpg) |
 |:--:|
-| <b>Just landed, with full deployment of flaps, spoilers and reverse thrusters. <br>Edelweiss WK47 (MCT-Zurich). Airbus A340-300. HB-JME</b>|
+| <b>Justo recién aterrizado, con sus flaps, spoilers y reversibles completamente activados. <br>Edelweiss WK47 (MCT-Zurich). Airbus A340-300. HB-JME</b>|
 
 | ![](/photos/assets/2022-04-09/DSC03579.jpg) |
 |:--:|

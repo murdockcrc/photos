@@ -1,16 +1,14 @@
 ---
 layout: post
-title:  "Street: Zurich Street art"
+title:  "Arte callejero en Zúrich (street)"
 date:   2022-04-13 00:00:00 +0200
 categories: street
 ---
 
-## Zurich
-### 2022-04-13
+Este es un punto por el que paso casi todos los días con mi bicicleta, de camino a la oficina. Es una ciclovía cerca del pueblo de Bassersdorf. Lejos de casa o edificios comerciales, estos muros le ofrecen a los artistas callejeros una oportunidad sin meterse en problemas con las autoridades. 
 
-This is a spot I pass through almost every day. It is a bike / pedestrian path, close to the town of Bassersdorf. Far from homes or commercial buildings, this spot is rather secluded. Graffitti is not popular in Switzerland, but at places like this, street artists can exercise their art without creating (too much) problems with the authorities.
+Lo que hace a este lugar especial es el amanecer. Durante el amanecer, la luz cálida del sol pega directamente sobre el grafitti. Para poder tomar estas fotos, tuve que esperar varias semanas, ya que el clima no cooperó y durante las primeras horas de la mañana, el clima estaba nublado y no había exposición directa de la luz del sol.
 
-What makes this place special is the lighting during sunrise. At this time of the day, and in the absence of clouds, the warm color temperature of the sunrise light gives a special effect to this street art. I had to wait for weeks for the lighting conditions to be appropriate before I could take these images.
 
 | ![](/photos/assets/street/20220413_073507.jpg) |
 |:--:|
